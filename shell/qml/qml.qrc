@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bg.qml</file>
+        <file>top.qml</file>
+        <file>bottom.qml</file>
+        <file>left.qml</file>
+        <file>right.qml</file>
+    </qresource>
+</RCC>
